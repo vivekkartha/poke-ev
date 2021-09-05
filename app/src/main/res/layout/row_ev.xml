@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/ivSprite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        />
+
+    <TextView
+        android:id="@+id/tvName"
+        style="@style/Heading"
+        android:layout_width="150dp"
+        android:layout_marginStart="@dimen/spacing2x"
+        android:layout_marginTop="@dimen/spacing1x"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Scorbunny" />
+
+    <TextView
+        android:id="@+id/tvType"
+        style="@style/TextMicro"
+        android:layout_marginTop="@dimen/spacingHalfx"
+        app:layout_constraintLeft_toLeftOf="@id/tvName"
+        app:layout_constraintTop_toBottomOf="@+id/tvName"
+        tools:text="Fire" />
+
+    <TextView
+        android:id="@+id/tvEffort"
+        style="@style/Heading"
+        android:layout_marginTop="@dimen/spacing1x"
+        android:text="2 Atk"
+        android:layout_marginEnd="@dimen/spacing5x"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_goneMarginTop="@dimen/spacing1x" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all"
+
+        android:title="All" />
+    <item
+        android:id="@+id/atk"
+        android:title="Atk" />
+    <item
+        android:id="@+id/def"
+        android:title="Def" />
+    <item
+        android:id="@+id/hp"
+        android:title="HP" />
+    <item
+        android:id="@+id/speed"
+        android:title="Speed" />
+    <item
+        android:id="@+id/spDef"
+        android:title="Sp.Def" />
+    <item
+        android:id="@+id/spAtk"
+        android:title="Sp.Atk" />
+
+</menu>

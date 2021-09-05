@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin & Padding, 8 dp baseline, https://material.io/design/layout/understanding-layout.html -->
+    <dimen name="spacingHalfx">4dp</dimen>
+    <dimen name="spacing1x">8dp</dimen>
+    <dimen name="spacing2x">16dp</dimen>
+    <dimen name="spacing3x">24dp</dimen>
+    <dimen name="spacing4x">32dp</dimen>
+    <dimen name="spacing5x">40dp</dimen>
+    <dimen name="spacing16x">136dp</dimen>
+
+    <!-- Touch Target Size, https://material.io/design/usability/accessibility.html#layout-and-typography -->
+    <dimen name="standard_touch_size">48dp</dimen>
+
+    <!-- Font sizes, https://material.io/design/typography/the-type-system.html#type-scale -->
+    <dimen name="font1x">12sp</dimen>
+    <dimen name="font2x">14sp</dimen>
+    <dimen name="font3x">16sp</dimen>
+    <dimen name="font4x">20sp</dimen>
+    <dimen name="font5x">34sp</dimen>
+    <dimen name="font6x">45sp</dimen>
+    <dimen name="font7x">56sp</dimen>
+</resources>

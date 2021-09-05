@@ -1,0 +1,9407 @@
+[
+  {
+    "name": "Bulbasaur",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ivysaur",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Venusaur",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Venusaur Mega Venusaur",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Charmander",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Charmeleon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Charizard",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Charizard Mega Charizard X",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Charizard Mega Charizard Y",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Squirtle",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wartortle",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Blastoise",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Blastoise Mega Blastoise",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Caterpie",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Metapod",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Butterfree",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Weedle",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Kakuna",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Beedrill",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Beedrill Mega Beedrill",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Pidgey",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Pidgeotto",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Pidgeot",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Pidgeot Mega Pidgeot",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Rattata",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Rattata Alolan Rattata",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Raticate",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Raticate Alolan Raticate",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Spearow",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Fearow",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Ekans",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Arbok",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pikachu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Pikachu Partner Pikachu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Raichu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Raichu Alolan Raichu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Sandshrew",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sandshrew Alolan Sandshrew",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sandslash",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sandslash Alolan Sandslash",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nidoran♀",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nidorina",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nidoqueen",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nidoran♂",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nidorino",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nidoking",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Clefairy",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Clefable",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vulpix",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Vulpix Alolan Vulpix",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Ninetales",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": "1"
+  },
+  {
+    "name": "Ninetales Alolan Ninetales",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Jigglypuff",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wigglytuff",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zubat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Golbat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Oddish",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gloom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vileplume",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Paras",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Parasect",
+    "hp": null,
+    "attack": "2",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Venonat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Venomoth",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Diglett",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Diglett Alolan Diglett",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Dugtrio",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Dugtrio Alolan Dugtrio",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Meowth",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Meowth Alolan Meowth",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Meowth Galarian Meowth",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Persian",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Persian Alolan Persian",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Psyduck",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Golduck",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mankey",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Primeape",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Growlithe",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Arcanine",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Poliwag",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Poliwhirl",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Poliwrath",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Abra",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kadabra",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Alakazam",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Alakazam Mega Alakazam",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Machop",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Machoke",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Machamp",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bellsprout",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Weepinbell",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Victreebel",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tentacool",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Tentacruel",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Geodude",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Geodude Alolan Geodude",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Graveler",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Graveler Alolan Graveler",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Golem",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Golem Alolan Golem",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ponyta",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Ponyta Galarian Ponyta",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Rapidash",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Rapidash Galarian Rapidash",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Slowpoke",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Slowpoke Galarian Slowpoke",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Slowbro",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Slowbro Mega Slowbro",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Slowbro Galarian Slowbro",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Magnemite",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Magneton",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Farfetch'd",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Farfetch'd Galarian Farfetch'd",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Doduo",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dodrio",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Seel",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Dewgong",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Grimer",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Grimer Alolan Grimer",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Muk",
+    "hp": "1",
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Muk Alolan Muk",
+    "hp": "1",
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Shellder",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cloyster",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gastly",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Haunter",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gengar",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gengar Mega Gengar",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Onix",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Drowzee",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Hypno",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Krabby",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kingler",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Voltorb",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Electrode",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Exeggcute",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Exeggutor",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Exeggutor Alolan Exeggutor",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cubone",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Marowak",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Marowak Alolan Marowak",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hitmonlee",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hitmonchan",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Lickitung",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Koffing",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Weezing",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Weezing Galarian Weezing",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rhyhorn",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rhydon",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Chansey",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tangela",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kangaskhan",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kangaskhan Mega Kangaskhan",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Horsea",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Seadra",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Goldeen",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Seaking",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Staryu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Starmie",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Mr. Mime",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Mr. Mime Galarian Mr. Mime",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Scyther",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Jynx",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Electabuzz",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Magmar",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pinsir",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pinsir Mega Pinsir",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tauros",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Magikarp",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Gyarados",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gyarados Mega Gyarados",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lapras",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ditto",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Eevee",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Eevee Partner Eevee",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Vaporeon",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Jolteon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Flareon",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Porygon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Omanyte",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Omastar",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kabuto",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kabutops",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Aerodactyl",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Aerodactyl Mega Aerodactyl",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Snorlax",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Articuno",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Articuno Galarian Articuno",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zapdos",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zapdos Galarian Zapdos",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Moltres",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Moltres Galarian Moltres",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Dratini",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dragonair",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dragonite",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mewtwo",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mewtwo Mega Mewtwo X",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mewtwo Mega Mewtwo Y",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mew",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Chikorita",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Bayleef",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Meganium",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Cyndaquil",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Quilava",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Typhlosion",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Totodile",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Croconaw",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Feraligatr",
+    "hp": null,
+    "attack": "2",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sentret",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Furret",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Hoothoot",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Noctowl",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ledyba",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Ledian",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Spinarak",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ariados",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Crobat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Chinchou",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lanturn",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pichu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Cleffa",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Igglybuff",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Togepi",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Togetic",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Natu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Xatu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Mareep",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Flaaffy",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ampharos",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ampharos Mega Ampharos",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bellossom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Marill",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Azumarill",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sudowoodo",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Politoed",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Hoppip",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Skiploom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Jumpluff",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Aipom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Sunkern",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sunflora",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Yanma",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Wooper",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Quagsire",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Espeon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Umbreon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Murkrow",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Slowking",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Slowking Galarian Slowking",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Misdreavus",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Unown",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wobbuffet",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Girafarig",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pineco",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Forretress",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dunsparce",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gligar",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Steelix",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Steelix Mega Steelix",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Snubbull",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Granbull",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Qwilfish",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Scizor",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Scizor Mega Scizor",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Shuckle",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Heracross",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Heracross Mega Heracross",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sneasel",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Teddiursa",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ursaring",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Slugma",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Magcargo",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Swinub",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Piloswine",
+    "hp": "1",
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Corsola",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Corsola Galarian Corsola",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Remoraid",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Octillery",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Delibird",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Mantine",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Skarmory",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Houndour",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Houndoom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Houndoom Mega Houndoom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kingdra",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Phanpy",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Donphan",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Porygon2",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Stantler",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Smeargle",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Tyrogue",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hitmontop",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Smoochum",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Elekid",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Magby",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Miltank",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Blissey",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Raikou",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Entei",
+    "hp": "1",
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Suicune",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Larvitar",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pupitar",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tyranitar",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tyranitar Mega Tyranitar",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lugia",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Ho-oh",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Celebi",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Treecko",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Grovyle",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Sceptile",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Sceptile Mega Sceptile",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Torchic",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Combusken",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Blaziken",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Blaziken Mega Blaziken",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mudkip",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Marshtomp",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Swampert",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Swampert Mega Swampert",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Poochyena",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mightyena",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zigzagoon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Zigzagoon Galarian Zigzagoon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Linoone",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Linoone Galarian Linoone",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Wurmple",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Silcoon",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Beautifly",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cascoon",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dustox",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Lotad",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Lombre",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Ludicolo",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Seedot",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nuzleaf",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Shiftry",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Taillow",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Swellow",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Wingull",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Pelipper",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ralts",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kirlia",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gardevoir",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gardevoir Mega Gardevoir",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Surskit",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Masquerain",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Shroomish",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Breloom",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Slakoth",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vigoroth",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Slaking",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nincada",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ninjask",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Shedinja",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Whismur",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Loudred",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Exploud",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Makuhita",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hariyama",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Azurill",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nosepass",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Skitty",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Delcatty",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Sableye",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sableye Mega Sableye",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mawile",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mawile Mega Mawile",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Aron",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lairon",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Aggron",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Aggron Mega Aggron",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Meditite",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Medicham",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Medicham Mega Medicham",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Electrike",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Manectric",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Manectric Mega Manectric",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Plusle",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Minun",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Volbeat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Illumise",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Roselia",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gulpin",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Swalot",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Carvanha",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sharpedo",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sharpedo Mega Sharpedo",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wailmer",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wailord",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Numel",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Camerupt",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Camerupt Mega Camerupt",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Torkoal",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Spoink",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Grumpig",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Spinda",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Trapinch",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vibrava",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Flygon",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Cacnea",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cacturne",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Swablu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Altaria",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Altaria Mega Altaria",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Zangoose",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Seviper",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lunatone",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Solrock",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Barboach",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Whiscash",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Corphish",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Crawdaunt",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Baltoy",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Claydol",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Lileep",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Cradily",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Anorith",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Armaldo",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Feebas",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Milotic",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Castform",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Castform Sunny Form",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Castform Rainy Form",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Castform Snowy Form",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kecleon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Shuppet",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Banette",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Banette Mega Banette",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Duskull",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Dusclops",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Tropius",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Chimecho",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Absol",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Absol Mega Absol",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wynaut",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Snorunt",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Glalie",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Glalie Mega Glalie",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Spheal",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sealeo",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Walrein",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Clamperl",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Huntail",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gorebyss",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Relicanth",
+    "hp": "1",
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Luvdisc",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Bagon",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Shelgon",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Salamence",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Salamence Mega Salamence",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Beldum",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Metang",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Metagross",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Metagross Mega Metagross",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Regirock",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Regice",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Registeel",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Latias",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Latias Mega Latias",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Latios",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Latios Mega Latios",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kyogre",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kyogre Primal Kyogre",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Groudon",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Groudon Primal Groudon",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rayquaza",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rayquaza Mega Rayquaza",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Jirachi",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Deoxys Normal Forme",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Deoxys attack Forme",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Deoxys defense Forme",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Deoxys speed Forme",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Turtwig",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Grotle",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Torterra",
+    "hp": null,
+    "attack": "2",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Chimchar",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Monferno",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Infernape",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Piplup",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Prinplup",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Empoleon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Starly",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Staravia",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Staraptor",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bidoof",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bibarel",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kricketot",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kricketune",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Shinx",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Luxio",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Luxray",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Budew",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Roserade",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cranidos",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rampardos",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Shieldon",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bastiodon",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Burmy",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Wormadam Plant Cloak",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Wormadam Sandy Cloak",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wormadam Trash Cloak",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Mothim",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Combee",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Vespiquen",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Pachirisu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Buizel",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Floatzel",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Cherubi",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cherrim",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Shellos",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gastrodon",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ambipom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Drifloon",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Drifblim",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Buneary",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Lopunny",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Lopunny Mega Lopunny",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Mismagius",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Honchkrow",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Glameow",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Purugly",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Chingling",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Stunky",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Skuntank",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bronzor",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bronzong",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Bonsly",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mime Jr.",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Happiny",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Chatot",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Spiritomb",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Gible",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gabite",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Garchomp",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Garchomp Mega Garchomp",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Munchlax",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Riolu",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lucario",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lucario Mega Lucario",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hippopotas",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hippowdon",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Skorupi",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Drapion",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Croagunk",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Toxicroak",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Carnivine",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Finneon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Lumineon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Mantyke",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Snover",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Abomasnow",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Abomasnow Mega Abomasnow",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Weavile",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Magnezone",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lickilicky",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rhyperior",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tangrowth",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Electivire",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Magmortar",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Togekiss",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Yanmega",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Leafeon",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Glaceon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gliscor",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mamoswine",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Porygon-Z",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gallade",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gallade Mega Gallade",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Probopass",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Dusknoir",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Froslass",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Rotom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Rotom Heat Rotom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Rotom Wash Rotom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Rotom Frost Rotom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Rotom Fan Rotom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Rotom Mow Rotom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Uxie",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Mesprit",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Azelf",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dialga",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Palkia",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Heatran",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Regigigas",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Giratina Altered Forme",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Giratina Origin Forme",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cresselia",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Phione",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Manaphy",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Darkrai",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Shaymin Land Forme",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Shaymin Sky Forme",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Arceus",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Victini",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Snivy",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Servine",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Serperior",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Tepig",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pignite",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Emboar",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Oshawott",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dewott",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Samurott",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Patrat",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Watchog",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lillipup",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Herdier",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Stoutland",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Purrloin",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Liepard",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Pansage",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Simisage",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Pansear",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Simisear",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Panpour",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Simipour",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Munna",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Musharna",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pidove",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tranquill",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Unfezant",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Blitzle",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Zebstrika",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Roggenrola",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Boldore",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gigalith",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Woobat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Swoobat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Drilbur",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Excadrill",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Audino",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Audino Mega Audino",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Timburr",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gurdurr",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Conkeldurr",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tympole",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Palpitoad",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Seismitoad",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Throh",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sawk",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sewaddle",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Swadloon",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Leavanny",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Venipede",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Whirlipede",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Scolipede",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Cottonee",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Whimsicott",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Petilil",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lilligant",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Basculin Red-Striped Form",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Basculin Blue-Striped Form",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Sandile",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Krokorok",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Krookodile",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Darumaka",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Darumaka Galarian Darumaka",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Darmanitan Standard Mode",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Darmanitan Zen Mode",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Darmanitan Galarian Standard Mode",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Darmanitan Galarian Zen Mode",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Maractus",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dwebble",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Crustle",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Scraggy",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Scrafty",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Sigilyph",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Yamask",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Yamask Galarian Yamask",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cofagrigus",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tirtouga",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Carracosta",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Archen",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Archeops",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Trubbish",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Garbodor",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zorua",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zoroark",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Minccino",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Cinccino",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Gothita",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Gothorita",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Gothitelle",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Solosis",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Duosion",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Reuniclus",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ducklett",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Swanna",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Vanillite",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vanillish",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vanilluxe",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Deerling",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Sawsbuck",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Emolga",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Karrablast",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Escavalier",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Foongus",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Amoonguss",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Frillish",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Jellicent",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Alomomola",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Joltik",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Galvantula",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Ferroseed",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Ferrothorn",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Klink",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Klang",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Klinklang",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tynamo",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Eelektrik",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Eelektross",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Elgyem",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Beheeyem",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Litwick",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lampent",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Chandelure",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Axew",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Fraxure",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Haxorus",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cubchoo",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Beartic",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cryogonal",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Shelmet",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Accelgor",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Stunfisk",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Stunfisk Galarian Stunfisk",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mienfoo",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mienshao",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Druddigon",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Golett",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Golurk",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pawniard",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bisharp",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bouffalant",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rufflet",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Braviary",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vullaby",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mandibuzz",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Heatmor",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Durant",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Deino",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zweilous",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hydreigon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Larvesta",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Volcarona",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cobalion",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Terrakion",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Virizion",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Tornadus Incarnate Forme",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tornadus Therian Forme",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Thundurus Incarnate Forme",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Thundurus Therian Forme",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Reshiram",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zekrom",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Landorus Incarnate Forme",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Landorus Therian Forme",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kyurem",
+    "hp": "1",
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kyurem Black Kyurem",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kyurem White Kyurem",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Keldeo Ordinary Form",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Keldeo Resolute Form",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Meloetta Aria Forme",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": "1",
+    "speed": "1"
+  },
+  {
+    "name": "Meloetta Pirouette Forme",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Genesect",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Chespin",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Quilladin",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Chesnaught",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Fennekin",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Braixen",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Delphox",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Froakie",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Frogadier",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Greninja",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Greninja Ash-Greninja",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Bunnelby",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Diggersby",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Fletchling",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Fletchinder",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Talonflame",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Scatterbug",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Spewpa",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vivillon",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Litleo",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pyroar",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Flabébé",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Floette",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Florges",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Skiddo",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gogoat",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pancham",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pangoro",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Furfrou",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Espurr",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Meowstic Male",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Meowstic Female",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Honedge",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Doublade",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Aegislash Shield Forme",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Aegislash Blade Forme",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Spritzee",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Aromatisse",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Swirlix",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Slurpuff",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Inkay",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Malamar",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Binacle",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Barbaracle",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Skrelp",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Dragalge",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Clauncher",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Clawitzer",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Helioptile",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Heliolisk",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Tyrunt",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tyrantrum",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Amaura",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Aurorus",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sylveon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Hawlucha",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dedenne",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Carbink",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Goomy",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Sliggoo",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Goodra",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Klefki",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Phantump",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Trevenant",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pumpkaboo Average Size",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pumpkaboo Small Size",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pumpkaboo Large Size",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pumpkaboo Super Size",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gourgeist Average Size",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gourgeist Small Size",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gourgeist Large Size",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gourgeist Super Size",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bergmite",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Avalugg",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Noibat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Noivern",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Xerneas",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Yveltal",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zygarde 50% Forme",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zygarde 10% Forme",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zygarde Complete Forme",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Diancie",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Diancie Mega Diancie",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Hoopa Hoopa Confined",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hoopa Hoopa Unbound",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Volcanion",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rowlet",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dartrix",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Decidueye",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Litten",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Torracat",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Incineroar",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Popplio",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Brionne",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Primarina",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pikipek",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Trumbeak",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Toucannon",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Yungoos",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Gumshoos",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Grubbin",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Charjabug",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Vikavolt",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Crabrawler",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Crabominable",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Oricorio Baile Style",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Oricorio Pom-Pom Style",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Oricorio Pa'u Style",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Oricorio Sensu Style",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cutiefly",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Ribombee",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Rockruff",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rockruff Own Tempo Rockruff",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lycanroc Midday Form",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lycanroc Midnight Form",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lycanroc Dusk Form",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wishiwashi Solo Form",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wishiwashi School Form",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mareanie",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Toxapex",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mudbray",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mudsdale",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dewpider",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Araquanid",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Fomantis",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lurantis",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Morelull",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Shiinotic",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Salandit",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Salazzle",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Stufful",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bewear",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Bounsweet",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Steenee",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Tsareena",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Comfey",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Oranguru",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Passimian",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Wimpod",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Golisopod",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sandygast",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Palossand",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pyukumuku",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Type: Null",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Silvally",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Minior Meteor Form",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Minior Core Form",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Komala",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Turtonator",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Togedemaru",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mimikyu",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Bruxish",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Drampa",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dhelmise",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Jangmo-o",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hakamo-o",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kommo-o",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tapu Koko",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Tapu Lele",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tapu Bulu",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Tapu Fini",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Cosmog",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cosmoem",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Solgaleo",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Lunala",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Nihilego",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Buzzwole",
+    "hp": null,
+    "attack": "1",
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Pheromosa",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Xurkitree",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Celesteela",
+    "hp": null,
+    "attack": "1",
+    "defense": "1",
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kartana",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Guzzlord",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Necrozma",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Necrozma Dusk Mane Necrozma",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Necrozma Dawn Wings Necrozma",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Necrozma Ultra Necrozma",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Magearna",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Marshadow",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Poipole",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Naganadel",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Stakataka",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Blacephalon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zeraora",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Meltan",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Melmetal",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Grookey",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Thwackey",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rillaboom",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Scorbunny",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Raboot",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Cinderace",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Sobble",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": "1"
+  },
+  {
+    "name": "Drizzile",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Inteleon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Skwovet",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Greedent",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Rookidee",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Corvisquire",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Corviknight",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Blipbug",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Dottler",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Orbeetle",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "3",
+    "speed": null
+  },
+  {
+    "name": "Nickit",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Thievul",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Gossifleur",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Eldegoss",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Wooloo",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dubwool",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Chewtle",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Drednaw",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Yamper",
+    "hp": "1",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Boltund",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Rolycoly",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Carkol",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Coalossal",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Applin",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Flapple",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Appletun",
+    "hp": "2",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Silicobra",
+    "hp": null,
+    "attack": null,
+    "defense": "1",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sandaconda",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cramorant",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Arrokuda",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Barraskewda",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Toxel",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Toxtricity Low Key Form",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Toxtricity Amped Form",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sizzlipede",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Centiskorch",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Clobbopus",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Grapploct",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sinistea",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Polteageist",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hatenna",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hattrem",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Hatterene",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Impidimp",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Morgrem",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Grimmsnarl",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Obstagoon",
+    "hp": null,
+    "attack": null,
+    "defense": "3",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Perrserker",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Cursola",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Sirfetch'd",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Mr. Rime",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Runerigus",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Milcery",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Alcremie",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Falinks",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": "1",
+    "speed": null
+  },
+  {
+    "name": "Pincurchin",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Snom",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "1",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Frosmoth",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Stonjourner",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Eiscue Ice Face",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Eiscue Noice Face",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Indeedee Male",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Indeedee Female",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": "2",
+    "speed": null
+  },
+  {
+    "name": "Morpeko Full Belly Mode",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Morpeko Hangry Mode",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Cufant",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Copperajah",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dracozolt",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Arctozolt",
+    "hp": null,
+    "attack": "2",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dracovish",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Arctovish",
+    "hp": null,
+    "attack": null,
+    "defense": "2",
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Duraludon",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "2",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Dreepy",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "1"
+  },
+  {
+    "name": "Drakloak",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "2"
+  },
+  {
+    "name": "Dragapult",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Zacian Crowned Sword",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Zacian Hero of Many Battles",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Zamazenta Crowned Shield",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Zamazenta Hero of Many Battles",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Eternatus",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Eternatus Eternamax",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Kubfu",
+    "hp": null,
+    "attack": "1",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Urshifu Single Strike Style",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Urshifu Rapid Strike Style",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Zarude",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Regieleki",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": "3"
+  },
+  {
+    "name": "Regidrago",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Glastrier",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Spectrier",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Calyrex",
+    "hp": "3",
+    "attack": null,
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Calyrex Ice Rider",
+    "hp": null,
+    "attack": "3",
+    "defense": null,
+    "spAtk": null,
+    "spDef": null,
+    "speed": null
+  },
+  {
+    "name": "Calyrex Shadow Rider",
+    "hp": null,
+    "attack": null,
+    "defense": null,
+    "spAtk": "3",
+    "spDef": null,
+    "speed": null
+  }
+]
